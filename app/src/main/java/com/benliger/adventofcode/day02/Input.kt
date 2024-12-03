@@ -1,6 +1,6 @@
 package com.benliger.adventofcode.day02
 
-internal const val input = """75 78 81 82 80
+const val input = """75 78 81 82 80
 14 15 18 21 24 26 28 28
 61 63 64 66 68 70 73 77
 13 14 17 18 19 26
