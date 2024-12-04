@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Advent of code"
-include(":app")
+include(":advent-of-code")
  
